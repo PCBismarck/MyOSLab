@@ -60,7 +60,6 @@ int main(int argc, const char* argv[])
     {
         Concurrent_no_mutex();
     }
-    // Concurrent();
     return 0;
 }
 
